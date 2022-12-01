@@ -1,1 +1,3 @@
-# Lab-9-Benchaphon-Phanmi
+# Benchaphon Phanmi
+CE 312 Homework : Lab 9
+Section B
